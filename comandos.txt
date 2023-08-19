@@ -17,3 +17,7 @@ mv index.html resumenSoftware.txt
 code .
 touch comandos.txt
 history
+git add .
+git commit -m "commit 03 de Geraldine Gomez"
+git push origin main
+
